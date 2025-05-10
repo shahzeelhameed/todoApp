@@ -6,7 +6,7 @@ const LoginScreen = () => {
   return (
     <SafeAreaProvider>
       <SafeAreaView style={styles.container}>
-        <Text style={styles.text}>Helssssssslo</Text>
+        <Text style={styles.text}>Hello my name is Shahzeel</Text>
       </SafeAreaView>
     </SafeAreaProvider>
   );
