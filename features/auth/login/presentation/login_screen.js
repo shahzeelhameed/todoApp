@@ -1,12 +1,12 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, View, Text } from 'react-native';
+import { StyleSheet, View, Text, Button } from 'react-native';
 import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 
 const LoginScreen = () => {
   return (
     <SafeAreaProvider>
       <SafeAreaView style={styles.container}>
-        <Text style={styles.loginText}>Login</Text>
+        <Text style={styles.text}>Helssssssslo</Text>
       </SafeAreaView>
     </SafeAreaProvider>
   );
@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
     padding: 20,
   },
 
-  loginText: {
+  text: {
     fontSize: 30,
     fontWeight: '600',
     textAlign: 'center',
