@@ -6,7 +6,7 @@ import ExampleScreen from './features/redux-example/redux_screen';
 export default function App() {
   return (
     <Provider store={store}>
-      <ExampleScreen />
+      <LoginScreen />
     </Provider>
   );
 }
