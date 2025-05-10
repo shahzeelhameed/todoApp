@@ -15,13 +15,7 @@
     "react": "19.0.0",
     "react-native": "0.79.2",
     "react-native-safe-area-context": "5.4.0",
-<<<<<<< HEAD
-    "react-dom": "19.0.0",
-    "react-native-web": "^0.20.0",
-    "@expo/metro-runtime": "~5.0.4"
-=======
     "react-redux": "^9.2.0"
->>>>>>> ec9cd0465bc66aa38414fb063c76dbb13b28c4e1
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
